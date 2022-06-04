@@ -1,6 +1,5 @@
 /**
  * @author umarwaheed
- * CIS 36A, Lab 9
  */ 
 import java.util.Scanner;
 
